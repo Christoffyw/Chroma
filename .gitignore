@@ -37,6 +37,7 @@
 
 # NDK stuff
 out/
+build/
 [Ll]ib/
 [Ll]ibs/
 [Oo]bj/
